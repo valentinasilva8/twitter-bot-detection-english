@@ -99,7 +99,6 @@ The script prints ROC‑AUC and classification reports, and renders confusion ma
 - Class imbalance is addressed with ADASYN (LSTM) and SMOTEENN (Random Forest).
 - Random seeds used where applicable (e.g., `random_state=42`), but some components (GPU ops, multithreading) may introduce minor nondeterminism.
 
-### License
-No license specified in the repository.
+
 
 
