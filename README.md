@@ -46,7 +46,7 @@ As AI‑generated and automated accounts proliferate on social platforms, timely
 |--------------------|----------|
 | KNN                | 0.86     |
 | Logistic Regression| 0.87     |
-| SVM (RBF)         | 0.87     |
+| SVM               | 0.87     |
 | Random Forest      | 0.86     |
 | Bi‑LSTM            | 0.87     |
 | PCA + KMeans       | 0.88     |
@@ -87,12 +87,7 @@ python -c "import nltk; nltk.download('punkt'); nltk.download('stopwords')"
 ```
 python main.py
 ```
-The script prints ROC‑AUC and classification reports, and renders confusion matrices and feature importance plots. LSTM checkpoints are saved as `best_hybrid_lstm_model.keras` and `best_lstm_model.keras`.
-
-### Visuals
-- EDA: label distribution bar chart, correlation heatmap, pairplots (top features).
-- Model evaluation: confusion matrices; Random Forest top‑5 feature importance.
-- Clustering: PCA variance curve, 2D scatter by cluster, 3D PCA cluster visualization (Plotly).
+The script prints ROC‑AUC and classification reports, and renders confusion matrices and feature importance plots.
 
 ### Notes & Reproducibility
 - Labels are binary with `0 = Human`, `1 = Bot`.
