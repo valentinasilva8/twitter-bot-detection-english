@@ -2,7 +2,6 @@
 """
 Created on Fri Apr 25 17:45:06 2025
 
-@author: sqril
 """
 '''Creating different sets to train and test the models on'''
 

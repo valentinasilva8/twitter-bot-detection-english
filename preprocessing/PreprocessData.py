@@ -2,7 +2,6 @@
 """
 Created on Fri Apr 25 17:37:11 2025
 
-@author: sqril
 """
 '''Preprocessing Data'''
 

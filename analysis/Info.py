@@ -2,7 +2,6 @@
 """
 Created on Fri Apr 25 17:32:28 2025
 
-@author: sqril
 """
 
 ''' Information about Dataframe'''

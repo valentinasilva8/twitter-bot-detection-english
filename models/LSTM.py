@@ -2,7 +2,6 @@
 """
 Created on Mon May 12 20:35:20 2025
 
-@author: sqril
 """
 
 import pandas as pd

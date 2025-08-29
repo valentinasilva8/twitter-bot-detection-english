@@ -2,7 +2,6 @@
 """
 Created on Fri Apr 25 17:48:10 2025
 
-@author: sqril
 """
 '''Random Forest Model'''
 

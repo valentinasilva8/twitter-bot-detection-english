@@ -2,7 +2,6 @@
 """
 Created on Fri Apr 25 17:55:27 2025
 
-@author: sqril
 """
 
 #0 is human 1 is bot

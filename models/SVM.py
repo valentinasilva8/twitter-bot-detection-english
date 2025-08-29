@@ -2,7 +2,6 @@
 """
 Created on Fri Apr 25 17:50:36 2025
 
-@author: sqril
 """
 '''SVM Model'''
 

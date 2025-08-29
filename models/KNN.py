@@ -2,7 +2,6 @@
 """
 Created on Fri Apr 25 17:52:26 2025
 
-@author: sqril
 """
 '''KNN Model'''
 

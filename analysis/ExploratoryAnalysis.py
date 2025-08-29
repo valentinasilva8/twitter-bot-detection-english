@@ -2,7 +2,6 @@
 """
 Created on Fri Apr 25 17:43:13 2025
 
-@author: sqril
 """
 
 import matplotlib.pyplot as plt

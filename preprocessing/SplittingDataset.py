@@ -2,7 +2,6 @@
 """
 Created on Fri Apr 25 17:41:35 2025
 
-@author: sqril
 """
 '''Splitting Dataset to ensure all models use the same data'''
 

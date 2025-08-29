@@ -2,7 +2,6 @@
 """
 Created on Fri Apr 25 17:33:08 2025
 
-@author: sqril
 """
 '''Statistics about the dataset'''
 

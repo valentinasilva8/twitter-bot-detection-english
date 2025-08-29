@@ -40,18 +40,18 @@ As AI‑generated and automated accounts proliferate on social platforms, timely
 - Note: Numerical scores are printed at runtime; this repository does not contain fixed metrics tables.
 
 ### Results Summary
-- From the accompanying report (Twitter English dataset):
-  - KNN accuracy: 0.86
-  - Logistic Regression accuracy: 0.87
-  - SVM (RBF) accuracy: 0.87
-  - Random Forest accuracy: 0.86
-  - Bi‑LSTM accuracy: 0.87
-  - PCA + KMeans clustering accuracy: 0.88 (highest reported in the study)
-- From `training.ipynb` runs:
-  - Hybrid LSTM (text + numeric): test accuracy ≈ 0.857, ROC‑AUC ≈ 0.921
-  - Bidirectional LSTM (text + numeric + sentiment): test accuracy ≈ 0.872, ROC‑AUC ≈ 0.911
+- Results (from the accompanying report):
 
-Notes from the study:
+| Model              | Accuracy |
+|--------------------|----------|
+| KNN                | 0.86     |
+| Logistic Regression| 0.87     |
+| SVM (RBF)         | 0.87     |
+| Random Forest      | 0.86     |
+| Bi‑LSTM            | 0.87     |
+| PCA + KMeans       | 0.88     |
+
+Notes from the study (precision/recall/F1 described in the PDF):
 - Deep learning approaches outperform classical ML across precision/recall/F1, while clustering provides complementary label‑free insights.
 - `is_verified` surfaced as a strong predictor in tree models; however, its reliability is reduced under paid verification policies.
 

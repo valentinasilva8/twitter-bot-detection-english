@@ -2,7 +2,6 @@
 """
 Created on Mon May 12 20:00:40 2025
 
-@author: sqril
 """
 
 '''Data Gathering and Filtering'''

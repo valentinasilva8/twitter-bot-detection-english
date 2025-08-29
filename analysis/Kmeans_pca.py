@@ -2,7 +2,6 @@
 """
 Created on Mon Apr 28 13:30:22 2025
 
-@author: SW-SQRiley
 """
 import pandas as pd
 import matplotlib.pyplot as plt

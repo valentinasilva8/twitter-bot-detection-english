@@ -2,7 +2,6 @@
 """
 Created on Fri Apr 25 17:35:35 2025
 
-@author: sqril
 """
 
 '''Outlier Analysis'''

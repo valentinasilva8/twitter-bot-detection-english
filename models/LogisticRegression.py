@@ -2,7 +2,6 @@
 """
 Created on Fri Apr 25 17:46:59 2025
 
-@author: sqril
 """
 '''Logistic Regression Model'''
 
